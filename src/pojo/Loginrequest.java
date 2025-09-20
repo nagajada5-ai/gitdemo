@@ -11,9 +11,11 @@ public class Loginrequest {
 	}
 	public String getUserPassword() {
 		return userPassword;
+		
 	}
 	public void setUserPassword(String userPassword) {
 		this.userPassword = userPassword;
+		System.out.println("sgdfhh");
 	}
 
 }

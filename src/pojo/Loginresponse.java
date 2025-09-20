@@ -12,9 +12,11 @@ public class Loginresponse {
 	}
 	public String getUserId() {
 		return userId;
+		
 	}
 	public void setUserId(String userId) {
 		this.userId = userId;
+		System.out.println("dgdfdf");
 	}
 	public String getMessage() {
 		return message;
