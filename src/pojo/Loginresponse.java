@@ -21,6 +21,9 @@ public class Loginresponse {
 	public String getMessage() {
 		return message;
 	}
+	public String getMessage2() {
+		return message;
+	}
 	public void setMessage(String message) {
 		this.message = message;
 	}
