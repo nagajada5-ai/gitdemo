@@ -12,6 +12,7 @@ public List<OrderDetails> getOrders() {
 
 public void setOrders(List<OrderDetails> orders) {
 	Orders = orders;
+	System.out.println("this is new updated code");
 }
 
 }
